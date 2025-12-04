@@ -20,4 +20,4 @@ This project designs, backtests, and optimizes a statistical arbitrage strategy 
 ## How to Access and Run the Code
 You can clone the repository to run the analysis locally, or use the interactive link below:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](YOUR_BINDER_LINK_HERE)
+[![Binder](https://mybinder.org/badge_logo.svg)]https://mybinder.org/v2/gh/Shubhamize/Quant-Finance-Pairs-Trading-XOM-CVX/main?urlpath=%2Fdoc%2Ftree%2FPairs_Trading_Strategy.ipynb
